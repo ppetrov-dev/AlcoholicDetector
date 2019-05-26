@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\ppetrov-dev\\.platformio\\penv\\Scripts;C:\\Users\\ppetrov-dev\\.platformio\\penv;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;D:\\Program Files (x86)\\GitExtensions\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Users\\ppetrov-dev\\AppData\\Local\\Microsoft\\WindowsApps;D:\\Program Files\\Microsoft VS Code\\bin;D:\\Python27;D:\\Python27\\Scripts;;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;D:\\Program Files (x86)\\GitExtensions\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Users\\ppetrov-dev\\AppData\\Local\\Microsoft\\WindowsApps;D:\\Program Files\\Microsoft VS Code\\bin;D:\\Python27;D:\\Python27\\Scripts;",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
